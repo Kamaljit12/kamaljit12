@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Jit Singh</h1>
-<h3 align="center">AI Engineer | Data Engineer | Building Practical AI Solutions</h3>
+<h3 align="center">Data Science, ML and AI Engineer | Building Practical AI Solutions</h3>
 
 <img align="right" alt="Coding" width="350" src="https://github.com/Kamaljit12/Kamaljit12/blob/main/gif3.gif">
 
