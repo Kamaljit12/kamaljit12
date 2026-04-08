@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Working in **Data Engineering, AI, and Machine Learning**
+* 🔭 Working in **AI & and Machine Learning**
 * 🌱 Exploring **LLM applications, RAG systems, and AI tools**
 * 💡 Interested in building **real-world AI and data products**
 * 📱 Also developing **Android applications using Flutter**
